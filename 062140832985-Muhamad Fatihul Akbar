@@ -1,0 +1,37 @@
+mengenal php versi 7
+kelebihan php 7 cukup banyak berikut daftar kelebihan php 7.
+-penanganan kesalahan yang lebih baik
+-penyederhanaan sintaksis
+-penggunaan memori yang lebih efisien
+-penambahan Tipe Deklaratif
+-peningkatan fitur objek
+-pemelihaan yang aktif
+-Ekosistem yang kuat
+
+kekurangan php 7 berikut daftar kekurangan php 7.
+-persaingan ketat
+-mudah ditiru oleh orang lain
+-cara melakukan handling error yang kurang tangguh
+-Tidak adanya akses untuk melakukan modifikasi
+-Perfoma yang lemah
+-Keamanan yang kurang terjamin
+
+mengenal php versi 8
+kelebihan php versi 8
+-kinerja yang lebih baik
+-Fitur Just-in-Time Compilation (JIT)
+-Fitur Baru
+-Perbaikan dan peningkatan sintaksis
+-peningkatan keamanan
+-Dukungan Terbaru
+-pemelihaan yang aktif
+-kompatibilitas
+
+kekurangan php versi 8
+-perubahan Sintaksis
+-Kebutuhan Sumber daya lebih besar
+-Kompatibilitas kode lama
+-Masih dalam pengembangan
+-ketersediaan Hosting
+-kurangnya Dokumentasi Terperinci
+-Perbaikan keamanan yang Dibutuhkan
